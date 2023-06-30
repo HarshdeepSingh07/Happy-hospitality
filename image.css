@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/* header starts */
+
+header {
+    height: 11rem;
+    border: .5rem solid black;
+}
+
+/* header ends */
+
+/* headline section starts */
+
+#headline {
+    height: 30rem;
+    border: .5rem solid black;
+}
+
+/* headline section ends */
+
+/* images section starts */
+
+    #images {
+        height: 60rem;
+        border: .5rem solid black;
+    }
+
+    /* images section ends */
+
+    /* footer section starts */
+
+    footer {
+        height: 15rem ;
+        border: .5rem solid black;
+    }
+    
+    /* footer section ends */
